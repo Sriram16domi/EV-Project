@@ -1,0 +1,23 @@
+.Navbar-logo-cont{
+    position: absolute;
+    top: 0;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.Navbar-logo h2{
+    color: rgb(0, 179, 255);
+    padding-left: 10px;
+}
+.Navbar-logo-cont .Navbar-cont ul{
+    display: flex;
+}
+.Navbar-logo-cont .Navbar-cont ul li{
+    padding-right: 20px;
+    list-style: none;
+    font-weight: 700;
+    font-size: 13px;
+    text-transform: uppercase;
+}
